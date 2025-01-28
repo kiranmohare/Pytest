@@ -1,0 +1,107 @@
+2025-01-28 08:46:14,541 - root - INFO - Logger initialized.
+2025-01-28 08:46:14,541 - src - INFO - App logging ready.
+2025-01-28 08:46:14,560 - src.section_classes - INFO - Initialized Animal
+2025-01-28 08:46:14,560 - src.section_classes - INFO - Initialized Animal
+2025-01-28 08:46:14,560 - src.section_classes - INFO - Making Animal sound
+2025-01-28 08:46:14,560 - src.section_classes - INFO - Making Dog sound
+2025-01-28 08:46:14,560 - src.section_classes - INFO - Dog running
+2025-01-28 08:46:14,560 - src.section_classes - INFO - Dog making move
+2025-01-28 08:46:14,560 - src.section_classes - INFO - Making Dog sound
+2025-01-28 08:46:14,617 - src.section_classes - INFO - Initialized Animal
+2025-01-28 08:46:14,617 - src.section_classes - INFO - Initialized Horse with name=Bella and height=136
+2025-01-28 08:58:47,700 - root - INFO - Logger initialized.
+2025-01-28 08:58:47,700 - src - INFO - App logging ready.
+2025-01-28 08:58:47,717 - src.section_classes - INFO - Initialized Animal
+2025-01-28 08:58:47,717 - src.section_classes - INFO - Initialized Animal
+2025-01-28 08:58:47,717 - src.section_classes - INFO - Making Animal sound
+2025-01-28 08:58:47,717 - src.section_classes - INFO - Making Dog sound
+2025-01-28 08:58:47,717 - src.section_classes - INFO - Dog running
+2025-01-28 08:58:47,717 - src.section_classes - INFO - Dog making move
+2025-01-28 08:58:47,717 - src.section_classes - INFO - Making Dog sound
+2025-01-28 08:58:47,718 - src.section_classes - INFO - Initialized Animal
+2025-01-28 08:58:47,719 - src.section_classes - INFO - Initialized Animal
+2025-01-28 08:58:47,719 - src.section_classes - INFO - Initialized Horse with name=Bella and height=136
+2025-01-28 09:00:05,546 - root - INFO - Logger initialized.
+2025-01-28 09:00:05,546 - src - INFO - App logging ready.
+2025-01-28 09:00:05,561 - src.section_classes - INFO - Initialized Animal
+2025-01-28 09:00:05,561 - src.section_classes - INFO - Initialized Animal
+2025-01-28 09:00:05,562 - src.section_classes - INFO - Making Animal sound
+2025-01-28 09:00:05,562 - src.section_classes - INFO - Making Dog sound
+2025-01-28 09:00:05,562 - src.section_classes - INFO - Dog running
+2025-01-28 09:00:05,562 - src.section_classes - INFO - Dog making move
+2025-01-28 09:00:05,562 - src.section_classes - INFO - Making Dog sound
+2025-01-28 09:00:05,563 - src.section_classes - INFO - Initialized Animal
+2025-01-28 09:00:05,564 - src.section_classes - INFO - Initialized Animal
+2025-01-28 09:00:05,564 - src.section_classes - INFO - Initialized Horse with name=Bella and height=136
+2025-01-28 09:17:50,917 - root - INFO - Logger initialized.
+2025-01-28 09:17:50,918 - src - INFO - App logging ready.
+2025-01-28 09:17:50,946 - src.section_classes - INFO - Initialized Animal
+2025-01-28 09:17:50,946 - src.section_classes - INFO - Initialized Animal
+2025-01-28 09:17:50,946 - src.section_classes - INFO - Making Animal sound
+2025-01-28 09:17:50,946 - src.section_classes - INFO - Making Dog sound
+2025-01-28 09:17:50,946 - src.section_classes - INFO - Dog running
+2025-01-28 09:17:50,946 - src.section_classes - INFO - Dog making move
+2025-01-28 09:17:50,946 - src.section_classes - INFO - Making Dog sound
+2025-01-28 09:17:50,948 - src.section_classes - INFO - Initialized Animal
+2025-01-28 09:17:50,949 - src.section_classes - INFO - Initialized Animal
+2025-01-28 09:17:50,949 - src.section_classes - INFO - Initialized Horse with name=Bella and height=136
+2025-01-28 09:25:28,508 - root - INFO - Logger initialized.
+2025-01-28 09:25:28,508 - src - INFO - App logging ready.
+2025-01-28 09:25:28,525 - src.section_classes - INFO - Initialized Animal
+2025-01-28 09:25:28,526 - src.section_classes - INFO - Initialized Animal
+2025-01-28 09:25:28,526 - src.section_classes - INFO - Making Animal sound
+2025-01-28 09:25:28,526 - src.section_classes - INFO - Making Dog sound
+2025-01-28 09:25:28,526 - src.section_classes - INFO - Dog running
+2025-01-28 09:25:28,526 - src.section_classes - INFO - Dog making move
+2025-01-28 09:25:28,526 - src.section_classes - INFO - Making Dog sound
+2025-01-28 09:25:28,527 - src.section_classes - INFO - Initialized Animal
+2025-01-28 09:25:28,528 - src.section_classes - INFO - Initialized Animal
+2025-01-28 09:25:28,528 - src.section_classes - INFO - Initialized Horse with name=Bella and height=136
+2025-01-28 09:28:03,761 - root - INFO - Logger initialized.
+2025-01-28 09:28:03,762 - src - INFO - App logging ready.
+2025-01-28 09:28:03,787 - src.section_classes - INFO - Initialized Animal
+2025-01-28 09:28:03,787 - src.section_classes - INFO - Initialized Animal
+2025-01-28 09:28:03,788 - src.section_classes - INFO - Making Animal sound
+2025-01-28 09:28:03,788 - src.section_classes - INFO - Making Dog sound
+2025-01-28 09:28:03,788 - src.section_classes - INFO - Dog running
+2025-01-28 09:28:03,788 - src.section_classes - INFO - Dog making move
+2025-01-28 09:28:03,788 - src.section_classes - INFO - Making Dog sound
+2025-01-28 09:28:03,789 - src.section_classes - INFO - Initialized Animal
+2025-01-28 09:28:03,790 - src.section_classes - INFO - Initialized Animal
+2025-01-28 09:28:03,790 - src.section_classes - INFO - Initialized Horse with name=Bella and height=136
+2025-01-28 10:04:25,668 - root - INFO - Logger initialized.
+2025-01-28 10:04:25,668 - src - INFO - App logging ready.
+2025-01-28 10:04:25,694 - src.section_classes - INFO - Initialized Animal
+2025-01-28 10:04:25,695 - src.section_classes - INFO - Initialized Animal
+2025-01-28 10:04:25,695 - src.section_classes - INFO - Making Animal sound
+2025-01-28 10:04:25,695 - src.section_classes - INFO - Making Dog sound
+2025-01-28 10:04:25,695 - src.section_classes - INFO - Dog running
+2025-01-28 10:04:25,695 - src.section_classes - INFO - Dog making move
+2025-01-28 10:04:25,695 - src.section_classes - INFO - Making Dog sound
+2025-01-28 10:04:25,696 - src.section_classes - INFO - Initialized Animal
+2025-01-28 10:04:25,697 - src.section_classes - INFO - Initialized Animal
+2025-01-28 10:04:25,697 - src.section_classes - INFO - Initialized Horse with name=Bella and height=136
+2025-01-28 10:07:39,274 - root - INFO - Logger initialized.
+2025-01-28 10:07:39,274 - src - INFO - App logging ready.
+2025-01-28 10:07:39,298 - src.section_classes - INFO - Initialized Animal
+2025-01-28 10:07:39,298 - src.section_classes - INFO - Initialized Animal
+2025-01-28 10:07:39,298 - src.section_classes - INFO - Making Animal sound
+2025-01-28 10:07:39,298 - src.section_classes - INFO - Making Dog sound
+2025-01-28 10:07:39,299 - src.section_classes - INFO - Dog running
+2025-01-28 10:07:39,299 - src.section_classes - INFO - Dog making move
+2025-01-28 10:07:39,299 - src.section_classes - INFO - Making Dog sound
+2025-01-28 10:07:39,300 - src.section_classes - INFO - Initialized Animal
+2025-01-28 10:07:39,301 - src.section_classes - INFO - Initialized Animal
+2025-01-28 10:07:39,301 - src.section_classes - INFO - Initialized Horse with name=Bella and height=136
+2025-01-28 10:19:38,395 - root - INFO - Logger initialized.
+2025-01-28 10:19:38,395 - src - INFO - App logging ready.
+2025-01-28 10:19:38,426 - src.section_classes - INFO - Initialized Animal
+2025-01-28 10:19:38,426 - src.section_classes - INFO - Initialized Animal
+2025-01-28 10:19:38,426 - src.section_classes - INFO - Making Animal sound
+2025-01-28 10:19:38,426 - src.section_classes - INFO - Making Dog sound
+2025-01-28 10:19:38,426 - src.section_classes - INFO - Dog running
+2025-01-28 10:19:38,426 - src.section_classes - INFO - Dog making move
+2025-01-28 10:19:38,426 - src.section_classes - INFO - Making Dog sound
+2025-01-28 10:19:38,428 - src.section_classes - INFO - Initialized Animal
+2025-01-28 10:19:38,429 - src.section_classes - INFO - Initialized Animal
+2025-01-28 10:19:38,429 - src.section_classes - INFO - Initialized Horse with name=Bella and height=136
