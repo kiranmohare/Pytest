@@ -24,6 +24,7 @@ class Dog(Animal):
         LOGGER.info("Dog running")
         return "Running!"
     
+    # Added methods to match the Assertions in Test class
     def make_move(self):
         LOGGER.info("Dog making move")
         return "Running!"
@@ -44,7 +45,7 @@ class Cat(Animal):
 
 class Horse(Animal):
     """horse class"""
-    # TASK: add implementation here
+    # TASK: adding implementation here
     def __init__(self, name, height):
         super().__init__(name)
         self.height = height

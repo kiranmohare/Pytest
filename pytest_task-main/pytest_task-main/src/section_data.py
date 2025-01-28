@@ -15,6 +15,7 @@ class DataStructureDemo:
 
     def add_item(self, item):
         """creates a backup and appends the given item"""
+         # Adding deepcopy to make items and item_backup separate
         self.items_backup = copy.deepcopy(self.items)
         self.items.append(item)
 

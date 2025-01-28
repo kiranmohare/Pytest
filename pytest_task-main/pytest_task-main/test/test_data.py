@@ -39,6 +39,7 @@ def test_transform_items():
     """
     demo = DataStructureDemo(items=["a", "b", "c", "d"])
     result = demo.transform_items(start_index=2)
+     # Changing the test data to capital letters to match the implementation
     assert result == ["C", "D"]
 
 def test_string_formatting():

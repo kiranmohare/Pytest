@@ -105,3 +105,15 @@
 2025-01-28 10:19:38,428 - src.section_classes - INFO - Initialized Animal
 2025-01-28 10:19:38,429 - src.section_classes - INFO - Initialized Animal
 2025-01-28 10:19:38,429 - src.section_classes - INFO - Initialized Horse with name=Bella and height=136
+2025-01-28 11:43:24,346 - root - INFO - Logger initialized.
+2025-01-28 11:43:24,347 - src - INFO - App logging ready.
+2025-01-28 11:43:24,415 - src.section_classes - INFO - Initialized Animal
+2025-01-28 11:43:24,416 - src.section_classes - INFO - Initialized Animal
+2025-01-28 11:43:24,416 - src.section_classes - INFO - Making Animal sound
+2025-01-28 11:43:24,416 - src.section_classes - INFO - Making Dog sound
+2025-01-28 11:43:24,416 - src.section_classes - INFO - Dog running
+2025-01-28 11:43:24,416 - src.section_classes - INFO - Dog making move
+2025-01-28 11:43:24,416 - src.section_classes - INFO - Making Dog sound
+2025-01-28 11:43:24,417 - src.section_classes - INFO - Initialized Animal
+2025-01-28 11:43:24,418 - src.section_classes - INFO - Initialized Animal
+2025-01-28 11:43:24,418 - src.section_classes - INFO - Initialized Horse with name=Bella and height=136
